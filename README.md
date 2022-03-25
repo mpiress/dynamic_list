@@ -93,10 +93,11 @@ A lista dinâmica disponibilizada possui um arquivo Makefile que realiza todo o 
 <img align="center" height="20px" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a style="color:black" href="mailto:michel@cefetmg.br?subject=[GitHub]%20Source%20Dynamic%20Lists">
+✉️ [michel@cefetmg.br]
+</a>
+
 </div>
 
-<p style="color: black; text-decoration: none; text-transform: uppercase">
-<a style="color:black" href="mailto:michel@cefetmg.br?subject=[GitHub]%20Source%20Dynamic%20Lists">
-[Ms. Michel P. Silva]
-</a>
-</p>
+
+
