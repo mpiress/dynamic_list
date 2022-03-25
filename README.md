@@ -34,4 +34,8 @@ Uma outra nomenclatura a ser observada na figura é a existência de um ponteiro
 >
 > Como a lista é composta de blocos espalhados na memória, torna-se necessário identificar qual bloco representa a cabeça da lista. Para isso, é utilizado o ponteiro primeiro. Da mesma forma, identificar o último bloco também se torna importante, uma vez que, novas inserções são realizadas sempre no final dessa estrutura com o objetivo de facilitar sua manipulação.
 
+Se considerarmos um computador hipotético com 8Mb de RAM distribuídos em dois pentes de 4Mb cada, uma representação da lista dinâmica poderia ser compreendida da seguinte forma:
 
+<p align="center">
+	<img src="imgs/memoria.png"/> 
+</p> 
