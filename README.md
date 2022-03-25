@@ -95,6 +95,8 @@ A lista dinâmica disponibilizada possui um arquivo Makefile que realiza todo o 
 
 </div>
 
-<a style="color: red; text-decoration: none; text-transform: uppercase", href="mailto:michel@cefetmg.br?subject=[GitHub]%20Source%20Dynamic%20Lists">
+<p style="color: black; text-decoration: none; text-transform: uppercase">
+<a href="mailto:michel@cefetmg.br?subject=[GitHub]%20Source%20Dynamic%20Lists">
 [Ms. Michel P. Silva]
 </a>
+</p>
