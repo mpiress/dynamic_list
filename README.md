@@ -85,8 +85,12 @@ A lista dinâmica disponibilizada possui um arquivo Makefile que realiza todo o 
 # Contatos
 
 <div style="display: inline-block;">
+<a href="https://t.me/michelpires369">
 <img align="center" height="20px" width="90px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
+</a>
 
+<a href="https://www.linkedin.com/in/michelpiressilva/">
 <img align="center" height="20px" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
