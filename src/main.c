@@ -16,9 +16,10 @@ int main()
 
 	LImprime(&l);
 
-	aux.val = 40;
+	aux.val = 30;
 	LRemove(&l, aux);
-
+	
+	printf("\n");
 	LImprime(&l);
 
 	return 0;

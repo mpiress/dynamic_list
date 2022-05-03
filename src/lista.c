@@ -31,15 +31,17 @@ void LRemove(Lista *l, Item d){
 	
 	aux = l->first;
 	while(aux->prox != NULL){
-		if (aux->prox->data.val != d.val)
-			aux = aux->prox;
-		else{
+		if (aux->prox->data.val == d.val){
 			tmp = aux;
 			aux = aux->prox;
 			tmp->prox = aux->prox;
+			if (aux == l->last)
+				l->last = tmp;
 			free(aux);
-			aux = NULL;
+			aux->prox = NULL;
 		}
+		else
+			aux = aux->prox;
 	}
 }
 
